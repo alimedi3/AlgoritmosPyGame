@@ -12,4 +12,5 @@ Implementar una manera de cambiar de posición un nodo a la vez.
 Implementar una manera de quitar nodos.  
 Asegurar que al momento de quitar un nodo, primero se quiten las aristas que tienen a ese nodo como nodo destino u origen.
 
+## Ejemplo:
 ![Ejemplo Aplicación](https://github.com/alimedi3/AlgoritmosPyGame/blob/main/images/Example%20Screenshot.jpg "Ejemplo Aplicación")
