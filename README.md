@@ -5,17 +5,19 @@ PyGameGraph v0.1
 ## PyGameGraph
 A small programm writen in PyGame for drawing graphs.
 
-## Instructions
+### Instructions
 For creating a node, `alt+LeftMouseButton`.  
 For creating an edge, `LeftMouseButton` on the origin node, then `LeftMouseButton` on the destination node.  
 The programm supports directed graphs because it stores the origin node and the destination node, although for the moment there isn't any indication for the direction of the edges.
 
-### Todo
+### To do
 Implement a way to create a graph of ajustable size.  
 Implement a way to move nodes one at a time.  
 Implement a way to remove nodes.
 Foolproof the removal of nodes, by first removing the connected edges to that node.
 
+### Example:
+![Example App](https://github.com/alimedi3/AlgoritmosPyGame/blob/main/images/Example%20Screenshot.jpg "Example App")
 
 # Español
 
